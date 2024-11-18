@@ -9,5 +9,5 @@ void main(){
   
   double formula = bill/people;
 
-  print('each person need to pay is $formula'); 
+  print('each person need to pay is $formula Bath'); 
 }
